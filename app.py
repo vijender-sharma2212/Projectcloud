@@ -8,6 +8,6 @@ def factorial(n):
     return result
 
 # Example usage
-number = 5
+number = 50
 
 print(f"The factorial of {number} is {factorial(number)}"
